@@ -6,7 +6,7 @@
 - 1 glass pane
 - 3 diamonds
 
-# INSTRUCTIONS FOR LUDWIG
+# INSTRUCTIONS FOR DEPLOYMENT
  1. Materials:
 	- Turtle
 	- Disk Drive
